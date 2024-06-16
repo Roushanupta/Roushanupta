@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roushanupta
+- 👋 Hi, I’m @Roushan Gupta
 - 👀 I’m interested in listening educational events
 - 🌱 I’m currently learning in MCA
 - 💞️ I’m looking to collaborate with google coding platform
