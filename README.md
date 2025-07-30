@@ -9,20 +9,10 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-8A4182?style=flat&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-336791?style=flat&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-4E4E4E?style=flat&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## 💻 Tech Stack
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="30" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" height="30" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="30" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/JavaFX-8A4182?style=flat&logo=openjdk&logoColor=white" height="30" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" height="30" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="30" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="30" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30" style="display: inline-block; margin-right: 10px;"/>
