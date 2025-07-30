@@ -17,8 +17,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?[Roushanupta=your-Roushanupta](https://github.com/Roushanupta)&layout=compact&theme=github_dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roushanupta&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roushanupta&layout=compact&theme=radical)
+
+## 🏆 Top Contributed Repo (if enabled):
+[![GitHub Streak](https://streak-stats.demolab.com?user=Roushanupta&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 
