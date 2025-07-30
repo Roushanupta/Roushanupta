@@ -19,4 +19,4 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=false)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-Roushanupta&show_icons=true&theme=github_dark&hide_border=false)
