@@ -19,5 +19,6 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Roushanupta=your-Roushanupta&layout=compact&theme=github_dark)
+
 
