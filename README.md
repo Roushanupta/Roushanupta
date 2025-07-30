@@ -19,6 +19,6 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Roushanupta=your-Roushanupta&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?[Roushanupta=your-Roushanupta](https://github.com/Roushanupta)&layout=compact&theme=github_dark)
 
 
